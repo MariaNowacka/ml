@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[codz]
+*$py.class
+*.pyc
+.env
+.ipynb_checkpoints
