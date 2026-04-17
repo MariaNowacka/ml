@@ -1,0 +1,8 @@
+torchvision
+seaborn
+lime
+scikit-image
+transformers
+datasets
+nltk
+huggingface_hub
